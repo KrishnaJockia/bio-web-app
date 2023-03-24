@@ -1,0 +1,31 @@
+
+body {
+ background:  black;
+ padding: 10px;
+ color: white;
+ text-align:center;
+ font-family:poppins,sans-serif;
+}
+
+h1{
+  font-size: large;
+}
+p{
+  font-size: small;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.profile-img{
+  width: 30%;
+  border-radius: 30%;
+}
+.btn {
+  display:block; 
+  color: rebeccapurple;
+  padding: 15px;
+  background: burlywood;
+  margin: 16px;
+  box-shadow: 5px 10px 18px red;
+}
